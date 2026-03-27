@@ -4,7 +4,7 @@
 
 **Last Updated:26 March 2026
 
-**Free Chromecast Mirror** ("the App") respects your privacy and is committed to protecting it. This Privacy Policy describes how your information is handled when you use our services.
+**Simple Chromecast Mirror** ("the App") respects your privacy and is committed to protecting it. This Privacy Policy describes how your information is handled when you use our services.
 
 ### 1. Data Collection
 The App **does not collect, store, or transmit any personal data** or sensitive information. We do not require you to create an account, nor do we collect information such as your name, email address, or contact details.
@@ -30,7 +30,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 **Última actualización:26 Marzo 2026
 
-**Free Chromecast Mirror** ("la Aplicación") respeta su privacidad y se compromete a protegerla. Esta Política de Privacidad describe cómo se maneja su información al utilizar nuestros servicios.
+**Simple Chromecast Mirror** ("la Aplicación") respeta su privacidad y se compromete a protegerla. Esta Política de Privacidad describe cómo se maneja su información al utilizar nuestros servicios.
 
 ### 1. Recolección de Datos
 La Aplicación **no recolecta, almacena ni transmite ningún dato personal** o información sensible. No requerimos que cree una cuenta, ni recopilamos información como su nombre, dirección de correo electrónico o detalles de contacto.
